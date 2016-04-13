@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\continue_anim.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\anim\\continue_anim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    }
+]

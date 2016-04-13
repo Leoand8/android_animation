@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animator.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\layout\\activity_animator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\layout\\main2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android_animation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\android_animation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
