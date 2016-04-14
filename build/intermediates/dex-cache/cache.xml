@@ -5,14 +5,14 @@
         jar="D:\AndroidStudioProjects\android_animation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
-        sha1="7b562bff3facc69e4ec52f486909fa069f047aba">
+        sha1="0586039f21d20b999b0a48b39bd039c76c055f09">
         <dex dex="D:\AndroidStudioProjects\android_animation\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_388c8ccfa0093226d0756297eccd5c0f8f7bc78d.jar" />
     </item>
     <item
         jar="D:\AndroidStudioProjects\android_animation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
-        sha1="831536dae896d7e5989a30bd723082e5f3f77a53">
+        sha1="999a48cade8aea4d6d2d537f1b18cd034d0fa00d">
         <dex dex="D:\AndroidStudioProjects\android_animation\app\build\intermediates\pre-dexed\debug\instant-run_0bc604c3ca62c01f04c1137518d8657721247188.jar" />
     </item>
     <item

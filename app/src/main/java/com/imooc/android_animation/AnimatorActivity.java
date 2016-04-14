@@ -33,7 +33,8 @@ public class AnimatorActivity extends Activity implements View.OnClickListener {
             R.id.imageView_d,
             R.id.imageView_e,
             R.id.imageView_f,
-            R.id.imageView_g
+            R.id.imageView_g,
+            R.id.imageView_h
     };
     private List<ImageView> imageViewList = new ArrayList<ImageView>();
     private boolean flag = true;//点击动画收起标志
@@ -211,7 +212,6 @@ public class AnimatorActivity extends Activity implements View.OnClickListener {
         animator.start();
 
         //与计时器无关
-
         //TypeEvaluators －－－值计算器，用于控制值变化的规律
         ValueAnimator valueAnimator = ValueAnimator.ofObject(new TypeEvaluator<PointF>() {
             @Override

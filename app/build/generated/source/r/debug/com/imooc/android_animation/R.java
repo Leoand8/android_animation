@@ -43,34 +43,35 @@ public final class R {
         public static final int two=0x7f020010;
     }
     public static final class id {
-        public static final int action_settings=0x7f09001b;
-        public static final int alpha=0x7f09000f;
-        public static final int animator=0x7f09001a;
+        public static final int action_settings=0x7f09001c;
+        public static final int alpha=0x7f090010;
+        public static final int animator=0x7f09001b;
         public static final int animator_btn=0x7f090001;
         public static final int animator_btn2=0x7f090002;
         public static final int animator_btn3=0x7f090003;
         public static final int animator_img=0x7f090004;
         public static final int animator_liner=0x7f090000;
-        public static final int change=0x7f090016;
-        public static final int container=0x7f09000c;
-        public static final int continue_btn=0x7f090012;
-        public static final int continue_btn2=0x7f090013;
-        public static final int flash=0x7f090014;
-        public static final int frame=0x7f090018;
-        public static final int image=0x7f090019;
-        public static final int imageView_a=0x7f09000b;
+        public static final int change=0x7f090017;
+        public static final int container=0x7f09000d;
+        public static final int continue_btn=0x7f090013;
+        public static final int continue_btn2=0x7f090014;
+        public static final int flash=0x7f090015;
+        public static final int frame=0x7f090019;
+        public static final int image=0x7f09001a;
+        public static final int imageView_a=0x7f09000c;
         public static final int imageView_b=0x7f090005;
         public static final int imageView_c=0x7f090006;
         public static final int imageView_d=0x7f090007;
         public static final int imageView_e=0x7f090008;
         public static final int imageView_f=0x7f090009;
         public static final int imageView_g=0x7f09000a;
-        public static final int layout=0x7f090017;
-        public static final int listView=0x7f09000d;
-        public static final int move=0x7f090015;
-        public static final int rotate=0x7f090010;
-        public static final int scale=0x7f09000e;
-        public static final int translate=0x7f090011;
+        public static final int imageView_h=0x7f09000b;
+        public static final int layout=0x7f090018;
+        public static final int listView=0x7f09000e;
+        public static final int move=0x7f090016;
+        public static final int rotate=0x7f090011;
+        public static final int scale=0x7f09000f;
+        public static final int translate=0x7f090012;
     }
     public static final class layout {
         public static final int activity_animator=0x7f030000;
